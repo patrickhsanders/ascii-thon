@@ -11,7 +11,7 @@ Before computers had complex graphical user interfaces, there were still many co
 
 For iOS students you'll need to create a _Mac command line application_, for Android students you wont be able to use Android Studio (look into IntelliJ or Eclipse). 
 
-For inspiration see: [MUD](https://en.wikipedia.org/wiki/MUD), [Rogue](https://en.wikipedia.org/wiki/Rogue_(video_game)) or just [text-based games](https://en.wikipedia.org/wiki/Text-based_game) 
+For inspiration see: [madlibs](https://en.wikipedia.org/wiki/Mad_Libs), [MUD](https://en.wikipedia.org/wiki/MUD), [Rogue](https://en.wikipedia.org/wiki/Rogue_(video_game)) or just [text-based games](https://en.wikipedia.org/wiki/Text-based_game)
 
 
 ## Purpose
